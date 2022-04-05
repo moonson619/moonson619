@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @moonson619
-- 👀 I’m interested in artificial intelligence tools for environmental engineering applications.
-- 🌱 I’m currently learning sequential data analysis, image filter, and so on.
-- 💞️ I’m looking to collaborate on the aforementioned fields.
+- 👋 Welcome to all visitors! I’m @moonson619
+- 👀 I’m interested in artificial intelligence tools for environmental engineering applications such as time-series prediction, data analysis, image filterm and so on.
 - 📫 Email me at moonson619 dot gmail.com
 
 <!---
